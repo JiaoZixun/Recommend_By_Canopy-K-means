@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# -Canopy-K-means-
-=======
 # 基于Canopy+K-means聚类的豆瓣电影推荐
 
 
@@ -106,5 +103,3 @@ step2.py读入该文件进行降维生成坐标点：
 ![本文算法平均准确率和召回率](D:\experiment\第三次豆瓣\测试4_K近邻=30\train\本文算法平均准确率和召回率.jpg)
 
 [[基于聚类的推荐算法笔记四](https://blog.csdn.net/jiaoooooo/article/details/119573497)]
-
->>>>>>> bf836bd (第一次提交)
