@@ -10,11 +10,11 @@
 
 爬取数据为（共193205条，0号文件）：
 
-![1](https://github.com/JiaoZixun/Recommend_By_Canopy-K-means/blob/main/img/1.jpg)
+![1](https://github.com/JiaoZixun/Recommend_By_Canopy-K-means/main/img/1.jpg)
 
 清除0号文件username、rating、index、movie_url、Average_score列，然后在类型三列中空白位插入‘#’号占位，最后得到清理后的原始数据：
 
-![2](D:\GitHub_混合聚类推荐算法\img\2.jpg)
+![2](https://github.com/JiaoZixun/Recommend_By_Canopy-K-means/main/img/2.jpg)
 
 ### 1.step0
 
