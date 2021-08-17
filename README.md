@@ -10,7 +10,7 @@
 
 爬取数据为（共193205条，0号文件）：
 
-![image-20210815172913158](C:\Users\Jiao1\AppData\Roaming\Typora\typora-user-images\image-20210815172913158.png)
+![image-20210817110744421](C:\Users\Jiao1\AppData\Roaming\Typora\typora-user-images\image-20210817110744421.png)
 
 清除0号文件username、rating、index、movie_url、Average_score列，然后在类型三列中空白位插入‘#’号占位，最后得到清理后的原始数据：
 
